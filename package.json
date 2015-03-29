@@ -10,4 +10,7 @@
     "express": "2.4.5",
     "formidable": "*"
   }
+, "scripts": {
+  "start": "node index.js"
+}  
 }
