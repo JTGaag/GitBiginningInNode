@@ -2,7 +2,8 @@
   "name": "beginning-in-node"
 , "version": "0.0.1"
 , "engines": {
-    "node": "0.12.x"
+    "node": "0.12.x",
+    "nmp": "2.5.1"
   }
 , "dependencies": {
     "express": "2.4.5",
