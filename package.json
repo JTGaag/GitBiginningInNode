@@ -1,6 +1,9 @@
 { 
   "name": "beginning-in-node"
 , "version": "0.0.1"
+, "engines": {
+    "node": "0.12.x"
+  }
 , "dependencies": {
     "express": "2.4.5",
     "formidable": "*"
