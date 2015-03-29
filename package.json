@@ -1,6 +1,7 @@
 { 
   "name": "beginning-in-node"
 , "version": "0.0.1"
+, "author": "Joost van der Gaag"
 , "engines": {
     "node": "0.12.x",
     "nmp": "2.5.1"
